@@ -1,3 +1,3 @@
 import pygame
-#ai papai
+#ai pap
 
